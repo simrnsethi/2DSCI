@@ -6,7 +6,7 @@ This code of conduct demonstrates expectations for participation in 2DSCI and ho
 
 ### What we encourage
 
-As contributors and administrators of this project, we encourage all parties to contribute by, and not limited to, raising issues, initiating feature requests, updating documentations, pulling requests and other proper behaviours subject to [Contributing to ssg_pymeans](https://github.ubc.ca/ubc-mds-2017/2DSCI/blob/master/CONTRIBUTING.md).
+As contributors and administrators of this project, we encourage all parties to contribute by, and not limited to, raising issues, initiating feature requests, updating documentations, pulling requests and other proper behaviours subject to [Contributing to 2DSCI](https://github.ubc.ca/ubc-mds-2017/2DSCI/blob/master/CONTRIBUTING.md).
 
 We are committed to making the environment throughout this open source kind, inclusive and harassment-free. We respect all parties involved regardless of gender, age, race, religion, sexual orientation, personal appearance and other personal traits.
 
@@ -24,6 +24,6 @@ As the administrators and maintainers of this project, we have the right and res
 
 To the extent possible under law, the 2DSCI team has waived all copyright and related or neighboring rights to 2DSCI Code of Conduct.
 
-### Attributes
+### Attribution
 
 This Code of Conduct is based on the template established by the Thoughtbot team [Code of Conduct by Thoughtbot](https://thoughtbot.com/open-source-code-of-conduct) and Contributor Covenant group [Code of Conduct by Contributor Covenant](https://www.contributor-covenant.org/).
