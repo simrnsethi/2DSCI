@@ -86,4 +86,8 @@ We are still in the stages of deciding which is best to assess our question. How
 
 ## Ethics
 
+The aspects of UBC office of Research Ethics document on using Online Surveys that are relevant to our survey are:
+
+Under FIPPA(BC Freedom of Information and protection of Privacy Act.) "personal information" which is defined as "recorded information about an identifiable individual" must be stored inside the jurisdiction of Canada. In our survey we have asked questions which are not key identifiers, however the last 3 questions in combination can be identified as quasi-identifiers. We plan on seeeking the consent of the individuals being surveyed before uploading this information on online portals. 
+
 
