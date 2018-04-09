@@ -1,0 +1,41 @@
+---
+title: "eda-simran"
+author: "Simran Sethi"
+date: '2018-04-09'
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+# Plot 1
+```{r warning=FALSE, message=FALSE}
+library(tidyverse)
+library(tidyr)
+library(ggplot2)
+dat <- read_csv("./data/Assessment (Responses) - Form Responses 1.csv")
+
+old_names <- colnames(dat)
+colnames(dat) <- c("Timestamp", "Q1", "Q2", "Q3", "Q4", "Q5", "Q6")
+
+
+ggplot(dat, aes(dat$Q1, ..count..)) + 
+  geom_bar(aes(fill = dat$Q4), position = "dodge") + 
+  xlab("Prior Experience level in Data Science") + 
+  ylab("Count") + 
+  guides(fill = guide_legend(title = "Prior Work Experience in DS")) + 
+  ggtitle("Prior Experience in Data Science vs. Prior Work Experience") + 
+  scale_x_discrete(labels = c('Programming & Stats','Programming','Statistics', 'Neither')) + 
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+
+```
+
+# Plot 2
+```{r}
+
+```
+
