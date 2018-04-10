@@ -286,7 +286,7 @@ data %>%
 
 From the pairwise plots, previous graduate degree does not show strong differences in the easiness. The number of years since last degree (C1) and previous work experience (C2) might have confounding effects as they show some difference in the distributions.
 
-C1 and C2 are also correlated. From the plot below, most people who have work experience fall into the `1-3` and `3-5` categories in C2. The Gaussian-like patterns in the groups `1-3` and `3-5` in C1 are likely caused by C2. Either C1 or C2 could be considered in further analysis (e.g. blocking).
+C1 and C2 are also correlated. From the plot below, most people who have work experience fall into the `1-3` and `3-5` categories in C1. The Gaussian-like patterns in the groups `1-3` and `3-5` in C1 are likely caused by C2. Either C1 or C2 could be considered in further analysis (e.g. blocking).
 
 ```{r blocking}
 facet_labels <- c(
