@@ -1,7 +1,7 @@
 Introduction
 ------------
 
-The objective of the [2DSCI survey](https://github.ubc.ca/ubc-mds-2017/2DSCI) is to study whether a student's background - statistical or computer sciency - affects the easiness of his/her transition into data science. This document provides the exploratory data analysis of the survey. We will summarize the distribution of the answers to each survey question, and explore the correlation between the response and explanatory variables.
+The objective of the [2DSCI survey](https://github.ubc.ca/ubc-mds-2017/2DSCI) is to study whether a student's background - statistical or computer science - affects the ease of his/her transition into data science. This document provides the exploratory data analysis of the survey. We will summarize the distribution of the answers to each survey question, and explore the correlation between the response and explanatory variables.
 
 Data
 ----
