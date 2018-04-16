@@ -1,26 +1,35 @@
 # 2DSCI
 A study to analyze the factors affecting the transition to Data Science. 📋
 
-# The Proposal
+## The Proposal
 
 The primary hypothesis that we will try to test is whether a person with a background in computing finds it just as easy to transition into data science as a person with background in statistics. For this we have described our survey design and the specific questions we intend to ask in this [proposal](https://github.ubc.ca/ubc-mds-2017/2DSCI/blob/master/proposal.md).
 
 
-# Contributions
+## Link to Survey
+
+[Here](https://goo.gl/forms/tQxvDrJATuyJTiqF3) is the link to the google form we used to collect the data.
+
+## EDA report
+
+The EDA done on the responses from the survey is available [here](https://github.ubc.ca/ubc-mds-2017/2DSCI/blob/master/doc/eda.md).
+
+## Contributions
 
 
 This is an open source project. Please follow the guidelines below for contribution.
 
  - Open an issue for any feedback and suggestions.
  - For contributing to the project, please refer to [Contributing](https://github.ubc.ca/ubc-mds-2017/2DSCI/blob/master/CONTRIBUTING.md) for details.
+ 
 
-# Contributors
+## Contributors
 
 [Guanchen Zhang](https://github.com/guanchenz),
 [Charley Carriero](https://github.com/charcarr),
 [Simran Sethi](https://github.com/simrnsethi)
 
-# Licenses
+## Licenses
 
 [MIT](https://github.ubc.ca/ubc-mds-2017/2DSCI/blob/master/LICENSE.md)
 

@@ -54,6 +54,9 @@ Q: How recently have you graduated from your last degree:
  * 3-5
  * +5
 
+
+**Explanation:** We believe that if the respondent has been out of school for less than a year then he or she may find the transition to data sciece relatively easy. This will directly affect our dependent or `Y` variable and so we want to test the effect of this confounding variable on our hypothesis.
+
  <br/>
  
 **Question 4:** To assess the confounding effects of having worked in a professional environment previously.
@@ -63,6 +66,8 @@ Q: Have you had any experience in professional work environment (not a co-op or 
 * Yes
 * No
 
+**Explanation:** We believe that if the respondent has worked in a professional work environment full-time previously then he or she may find it realtively easy to transition into data science as compared to those who haven't had any experience in a professional work environment. We believe this will be the case because the MDS is a professional masters program aimed at helping its students to gain relevant experience to transition into a professional work environment with a focus on Data Science. We want to assess its effect as a confounding variable on the response or the `Y` variable.
+
 <br/>
 
 **Question 5:**  To assess the confounding effects of skills leaned from doing an additional graduate degree.
@@ -71,6 +76,8 @@ Q: Did you have another graduate degree prior to your introduction to Data Scien
 
 * Yes 
 * No
+
+**Explanation:** We believe that respondents with other graduate degrees before their introduction to data science will find it easier ti transition into a graduate degree in Data Science due to prior experience in a similar program. They would know what is expected of them in such a fast-forward professional masters program and would find the workload easier to manage. We want to assess the effect quantitatively through this study.
 
 <br/>
 
