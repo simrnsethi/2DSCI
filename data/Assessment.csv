@@ -1,41 +1,41 @@
-"Timestamp","I agree to the above consent form.","Prior to your introduction to Data Science, which of these statements best describes your background?","How would you describe your transition into data science?","How recently have you graduated from your last degree? (in years)","Have you had any experience in professional work environment (not a co-op or internship) prior to your introduction to Data Science?","Did you have another graduate degree prior to your introduction to Data Science?"
-"2018/04/09 2:55:03 pm GMT-6","Yes","I had no more than entry level knowledge of either topic.","Hard","<1","No","Yes"
-"2018/04/09 2:58:16 pm GMT-6","Yes","I had experience with both programming and statistics.","Easy","<1","Yes","No"
-"2018/04/09 2:58:44 pm GMT-6","Yes","I had experience with both programming and statistics.","Somewhat easy","1-3","No","No"
-"2018/04/09 2:59:09 pm GMT-6","Yes","I had experience with programming.","Medium","1-3","Yes","Yes"
-"2018/04/09 2:59:46 pm GMT-6","Yes","I had no more than entry level knowledge of either topic.","Hard","+5","No","No"
-"2018/04/09 3:00:23 pm GMT-6","Yes","I had no more than entry level knowledge of either topic.","Somewhat easy","<1","No","No"
-"2018/04/09 3:02:31 pm GMT-6","Yes","I had experience with both programming and statistics.","Easy","1-3","No","No"
-"2018/04/09 3:02:33 pm GMT-6","Yes","I had experience with statistics.","Medium","+5","Yes","Yes"
-"2018/04/09 3:02:50 pm GMT-6","Yes","I had experience with statistics.","Hard","<1","Yes","Yes"
-"2018/04/09 3:02:55 pm GMT-6","Yes","I had experience with both programming and statistics.","Medium","1-3","Yes","No"
-"2018/04/09 3:02:58 pm GMT-6","Yes","I had experience with both programming and statistics.","Somewhat hard","1-3","No","Yes"
-"2018/04/09 3:03:37 pm GMT-6","Yes","I had experience with statistics.","Hard","<1","No","No"
-"2018/04/09 3:04:03 pm GMT-6","Yes","I had no more than entry level knowledge of either topic.","Hard","1-3","No","No"
-"2018/04/09 3:04:13 pm GMT-6","Yes","I had experience with both programming and statistics.","Somewhat hard","<1","No","No"
-"2018/04/09 3:04:21 pm GMT-6","Yes","I had experience with statistics.","Medium","1-3","Yes","No"
-"2018/04/09 3:04:21 pm GMT-6","Yes","I had no more than entry level knowledge of either topic.","Somewhat hard","1-3","Yes","No"
-"2018/04/09 3:04:43 pm GMT-6","Yes","I had no more than entry level knowledge of either topic.","Medium","1-3","Yes","No"
-"2018/04/09 3:05:14 pm GMT-6","Yes","I had experience with statistics.","Medium","3-5","Yes","Yes"
-"2018/04/09 3:05:34 pm GMT-6","Yes","I had experience with programming.","Medium","1-3","Yes","No"
-"2018/04/09 3:06:11 pm GMT-6","Yes","I had experience with statistics.","Somewhat hard","<1","No","No"
-"2018/04/09 3:06:41 pm GMT-6","Yes","I had no more than entry level knowledge of either topic.","Somewhat hard","3-5","Yes","No"
-"2018/04/09 3:06:55 pm GMT-6","Yes","I had experience with programming.","Somewhat hard","1-3","No","No"
-"2018/04/09 3:07:00 pm GMT-6","Yes","I had experience with programming.","Somewhat easy","1-3","Yes","No"
-"2018/04/09 3:08:21 pm GMT-6","Yes","I had experience with programming.","Medium","3-5","Yes","Yes"
-"2018/04/09 3:08:25 pm GMT-6","Yes","I had no more than entry level knowledge of either topic.","Medium","1-3","No","No"
-"2018/04/09 3:08:45 pm GMT-6","Yes","I had experience with both programming and statistics.","Somewhat hard","+5","No","Yes"
-"2018/04/09 3:09:24 pm GMT-6","","I had experience with both programming and statistics.","Hard","<1","Yes","No"
-"2018/04/09 3:09:37 pm GMT-6","Yes","I had experience with statistics.","Easy","1-3","Yes","Yes"
-"2018/04/09 3:09:46 pm GMT-6","Yes","I had experience with statistics.","Somewhat hard","1-3","Yes","No"
-"2018/04/09 3:09:49 pm GMT-6","Yes","I had experience with both programming and statistics.","Easy","1-3","Yes","No"
-"2018/04/09 3:09:55 pm GMT-6","Yes","I had experience with statistics.","Medium","1-3","No","No"
-"2018/04/09 3:10:00 pm GMT-6","Yes","I had experience with both programming and statistics.","Easy","1-3","No","No"
-"2018/04/09 3:10:08 pm GMT-6","Yes","I had no more than entry level knowledge of either topic.","Easy","3-5","Yes","Yes"
-"2018/04/09 3:11:43 pm GMT-6","Yes","I had experience with both programming and statistics.","Medium","3-5","Yes","No"
-"2018/04/09 3:12:36 pm GMT-6","Yes","I had no more than entry level knowledge of either topic.","Easy","<1","No","No"
-"2018/04/09 3:13:20 pm GMT-6","Yes","I had experience with both programming and statistics.","Easy","<1","Yes","Yes"
-"2018/04/09 3:14:40 pm GMT-6","Yes","I had no more than entry level knowledge of either topic.","Medium","<1","No","No"
-"2018/04/09 3:15:06 pm GMT-6","Yes","I had experience with both programming and statistics.","Somewhat easy","3-5","Yes","No"
-"2018/04/09 3:18:16 pm GMT-6","Yes","I had experience with both programming and statistics.","Easy","<1","No","No"
-"2018/04/09 3:19:29 pm GMT-6","Yes","I had experience with programming.","Medium","3-5","No","Yes"
+Timestamp,I agree to the above consent form.,"Prior to your introduction to Data Science, which of these statements best describes your background?",How would you describe your transition into data science?,How recently have you graduated from your last degree? (in years),Have you had any experience in professional work environment (not a co-op or internship) prior to your introduction to Data Science?,Did you have another graduate degree prior to your introduction to Data Science?
+2018/04/09 2:55:03 pm GMT-6,Yes,I had no more than entry level knowledge of either topic.,Hard,<1,No,Yes
+2018/04/09 2:58:16 pm GMT-6,Yes,I had experience with both programming and statistics.,Easy,<1,Yes,No
+2018/04/09 2:58:44 pm GMT-6,Yes,I had experience with both programming and statistics.,Somewhat easy,03-Jan,No,No
+2018/04/09 2:59:09 pm GMT-6,Yes,I had experience with programming.,Medium,03-Jan,Yes,Yes
+2018/04/09 2:59:46 pm GMT-6,Yes,I had no more than entry level knowledge of either topic.,Hard,5,No,No
+2018/04/09 3:00:23 pm GMT-6,Yes,I had no more than entry level knowledge of either topic.,Somewhat easy,<1,No,No
+2018/04/09 3:02:31 pm GMT-6,Yes,I had experience with both programming and statistics.,Easy,03-Jan,No,No
+2018/04/09 3:02:33 pm GMT-6,Yes,I had experience with statistics.,Medium,5,Yes,Yes
+2018/04/09 3:02:50 pm GMT-6,Yes,I had experience with statistics.,Hard,<1,Yes,Yes
+2018/04/09 3:02:55 pm GMT-6,Yes,I had experience with both programming and statistics.,Medium,03-Jan,Yes,No
+2018/04/09 3:02:58 pm GMT-6,Yes,I had experience with both programming and statistics.,Somewhat hard,03-Jan,No,Yes
+2018/04/09 3:03:37 pm GMT-6,Yes,I had experience with statistics.,Hard,<1,No,No
+2018/04/09 3:04:03 pm GMT-6,Yes,I had no more than entry level knowledge of either topic.,Hard,03-Jan,No,No
+2018/04/09 3:04:13 pm GMT-6,Yes,I had experience with both programming and statistics.,Somewhat hard,<1,No,No
+2018/04/09 3:04:21 pm GMT-6,Yes,I had experience with statistics.,Medium,03-Jan,Yes,No
+2018/04/09 3:04:21 pm GMT-6,Yes,I had no more than entry level knowledge of either topic.,Somewhat hard,03-Jan,Yes,No
+2018/04/09 3:04:43 pm GMT-6,Yes,I had no more than entry level knowledge of either topic.,Medium,03-Jan,Yes,No
+2018/04/09 3:05:14 pm GMT-6,Yes,I had experience with statistics.,Medium,05-Mar,Yes,Yes
+2018/04/09 3:05:34 pm GMT-6,Yes,I had experience with programming.,Medium,03-Jan,Yes,No
+2018/04/09 3:06:11 pm GMT-6,Yes,I had experience with statistics.,Somewhat hard,<1,No,No
+2018/04/09 3:06:41 pm GMT-6,Yes,I had no more than entry level knowledge of either topic.,Somewhat hard,05-Mar,Yes,No
+2018/04/09 3:06:55 pm GMT-6,Yes,I had experience with programming.,Somewhat hard,03-Jan,No,No
+2018/04/09 3:07:00 pm GMT-6,Yes,I had experience with programming.,Somewhat easy,03-Jan,Yes,No
+2018/04/09 3:08:21 pm GMT-6,Yes,I had experience with programming.,Medium,05-Mar,Yes,Yes
+2018/04/09 3:08:25 pm GMT-6,Yes,I had no more than entry level knowledge of either topic.,Medium,03-Jan,No,No
+2018/04/09 3:08:45 pm GMT-6,Yes,I had experience with both programming and statistics.,Somewhat hard,5,No,Yes
+2018/04/09 3:09:24 pm GMT-6,,I had experience with both programming and statistics.,Hard,<1,Yes,No
+2018/04/09 3:09:37 pm GMT-6,Yes,I had experience with statistics.,Easy,03-Jan,Yes,Yes
+2018/04/09 3:09:46 pm GMT-6,Yes,I had experience with statistics.,Somewhat hard,03-Jan,Yes,No
+2018/04/09 3:09:49 pm GMT-6,Yes,I had experience with both programming and statistics.,Easy,03-Jan,Yes,No
+2018/04/09 3:09:55 pm GMT-6,Yes,I had experience with statistics.,Medium,03-Jan,No,No
+2018/04/09 3:10:00 pm GMT-6,Yes,I had experience with both programming and statistics.,Easy,03-Jan,No,No
+2018/04/09 3:10:08 pm GMT-6,Yes,I had no more than entry level knowledge of either topic.,Easy,05-Mar,Yes,Yes
+2018/04/09 3:11:43 pm GMT-6,Yes,I had experience with both programming and statistics.,Medium,05-Mar,Yes,No
+2018/04/09 3:12:36 pm GMT-6,Yes,I had no more than entry level knowledge of either topic.,Easy,<1,No,No
+2018/04/09 3:13:20 pm GMT-6,Yes,I had experience with both programming and statistics.,Easy,<1,Yes,Yes
+2018/04/09 3:14:40 pm GMT-6,Yes,I had no more than entry level knowledge of either topic.,Medium,<1,No,No
+2018/04/09 3:15:06 pm GMT-6,Yes,I had experience with both programming and statistics.,Somewhat easy,05-Mar,Yes,No
+2018/04/09 3:18:16 pm GMT-6,Yes,I had experience with both programming and statistics.,Easy,<1,No,No
+2018/04/09 3:19:29 pm GMT-6,Yes,I had experience with programming.,Medium,05-Mar,No,Yes
