@@ -1,11 +1,11 @@
 library(tidyverse)
 library(plyr)
 
-t2dsci_data_wrangling <- function (data_location) {
-  raw <- read_csv(data_location)
+t2dsci_data_wrangling <- function () {
+  raw <- read_csv('./data/Assessment.csv')
   
   # remove timestamps and consent
-  data <- raw %>% dplyr::select(-Timestamp, -`I agree to the above consent form.`)
+  data <- raw %>% select(-Timestamp, -`I agree to the above consent form.`)
   
   # rename columns
   colnames(data) <- c('X', 'Y', 'C1', 'C2', 'C3')

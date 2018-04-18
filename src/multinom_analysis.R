@@ -1,7 +1,7 @@
 library(nnet)
 
 # get cleaned data
-data <- t2dsci_data_wrangling("data/Assessment_Latest.csv")
+data <- t2dsci_data_wrangling()
 
 # show table
 with(data, table(X, Y))
@@ -35,7 +35,6 @@ by(pp_X[,3:7], pp_X$X, colMeans)
 
 ## melt data set to long for ggplot2
 # c("Medium", "Easy", "Somewhat easy", "Somewhat hard", "Hard")
-require(reshape2)
 lpp <- melt(pp_X, id.vars = c("X"),
             value.name = "probability")
 head(lpp)
